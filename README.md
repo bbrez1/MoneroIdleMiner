@@ -25,4 +25,5 @@ How to run the application:
   - The second line represent the name of the miner (default xmr-stak.exe)
 
 
-Donations address: 477eueNFFttThg9BRrGQqjAicWzX45trsYXS3PMv1wfPJ5ct2YvsPTcBNww815hpkxRjs78acfx4mA9HSo95cC1SQf4LHjh
+**Donations address:**
+477eueNFFttThg9BRrGQqjAicWzX45trsYXS3PMv1wfPJ5ct2YvsPTcBNww815hpkxRjs78acfx4mA9HSo95cC1SQf4LHjh
